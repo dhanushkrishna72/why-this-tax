@@ -118,8 +118,8 @@ Our mission is to make complex systems like taxation **transparent, democratic, 
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.  
-Feel free to use, remix, or contribute with attribution.
+This project is not Licensed as of now.
+feel free to contribute.
 
 ---
 
